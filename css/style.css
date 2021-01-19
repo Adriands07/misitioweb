@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+   
+}
+body{
+    background-image: url("http://www.hdfondos.eu/preview/get_photo/458961/1024/768");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+  color: #c3d7df;
+  font-size: 160%;
+  line-height: 155%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+
+}
+
+h3{
+    font-size: 175%;
+    line-height: 155%;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0;
+    background-color: seagreen;
+    border-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+}
+
+a{
+    color: #524c56;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a:hover{
+    color: #c3d7df;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin-bottom: -4px;
+
+}
+
+#wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+#banner-wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 0 3% 0;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    top: 0;
+    left: 0;
+
+}
+
+header #logo-z img {
+    margin: 10px;
+    float: left;
+    width: 90px;
+ 
+}
+nav{
+    float: right;
+    padding: 25px 20px 0 0;
+}
+
+#menu-icon{
+    display: none;
+    font-size: 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+nav ul li {
+    font-size: 150%;
+    display: inline-block; 
+    padding: 5px;
+    
+    
+}
+
+nav ul li a{
+    color: #3f5767;
+}
+
+.ini {
+    color: #3f5767;
+}
+.one-third {
+    width: 35%;
+    float: left;
+    padding: 90px;
+    text-align: center;
+
+  
+
+     
+}
+.icon-wrap{
+    margin: 0 auto;
+    width: 120px;
+    height: 120px;
+    border-left: 50px solid turquoise;
+    border-right: 50px solid turquoise;
+    border-bottom: 35px solid transparent;
+    justify-content: flex-end;
+    margin-top: 3%;
+     
+    
+}
+
+.icon-wrap i {
+   
+    color: darkturquoise;
+    font-size: 450%;
+    text-align: center;
+    padding: 20%; 
+}
+
+.left-col{
+     float: left;
+     margin: 0 auto;
+     width: 60%;
+     height: auto;
+     padding: 1%;
+
+    }
+
+.sidebar{
+    float: right;
+    margin: 0 auto;
+    width: 20%;
+    height: auto;
+    padding: 1%;
+
+}
+
+.one-third-padding{  
+     width: 330px;
+     float: left;
+     margin: 10;
+     height: auto;
+     list-style: none;
+     text-align: center;
+
+     
+     
+     
+     
+
+}
+
+
+.clearfix-padding{
+     clear: both;
+     padding: 2%;
+}
+
+footer{
+    background: cadetblue;
+    width: 100%;
+    overflow: auto;
+}
+
+.icon-text {
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.icon-text-icon {
+    float: left;
+     width: 20%;
+     padding: 4%;
+}
+
+
